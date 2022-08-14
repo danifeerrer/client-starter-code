@@ -1,1 +1,1 @@
-# client-starter-code, final Project
+# client-starter-code, final project
